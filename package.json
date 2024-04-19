@@ -1,0 +1,22 @@
+{
+  "name": "muzafar_ali-word_counter",
+  "version": "1.0.0",
+  "description": "This is a basic word counter with TypeScript, Node.js, and Inquierer ",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muzaffar Ali Kalwar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
